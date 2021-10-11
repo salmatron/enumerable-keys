@@ -1,0 +1,22 @@
+{
+  "name": "@salmatron/enumerable-keys",
+  "version": "0.1.0",
+  "description": "",
+  "type": "module",
+  "main": "enumerable-keys.mjs",
+  "module": "enumerable-keys.mjs",
+  "types": "enumerable-keys.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salmatron/enumerable-keys.git"
+  },
+  "author": "salmatron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Salmatron/enumerable-keys/issues"
+  },
+  "homepage": "https://github.com/Salmatron/enumerable-keys#readme"
+}
